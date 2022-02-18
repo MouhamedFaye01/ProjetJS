@@ -1,0 +1,25 @@
+.tableau1 {
+    border: 2px solid;
+    height: 98vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.un {
+    /*  border: 2px solid;*/
+    height: 50%;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #cccccc;
+}
+
+.deux {
+    /* border: 2px solid; */
+    height: 96%;
+    width: 99%;
+    border-radius: 10px;
+    background-color: white;
+}
